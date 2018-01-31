@@ -1,0 +1,23 @@
+{
+  "name": "nexces/number-in-words-pl",
+  "description": "Spells numbers",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wojciech Grzeszkiewicz",
+      "homepage": "https://4programmers.net/Profile/75217",
+      "role": "author"
+    },
+    {
+      "name": "Adrian 'Nexces' Piotrowicz",
+      "email": "adrian.piotrowicz@sprint.pl",
+      "role": "packager"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Nexces\\": "src/"
+    }
+  }
+}
