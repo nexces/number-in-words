@@ -6,11 +6,11 @@
  * Time: 14:11
  */
 
-namespace NXStudio;
+namespace Nexces;
 
 /**
  * Class NumberInWords
- * @package NXStudio
+ * @package Nexces
  *
  * Wzorowane na:
  * @see http://4programmers.net/PHP/FAQ/Jak_zamieni%C4%87_liczb%C4%99_na_jej_posta%C4%87_s%C5%82own%C4%85_
