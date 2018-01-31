@@ -1,6 +1,6 @@
 {
   "name": "nexces/number-in-words-pl",
-  "description": "Spells numbers",
+  "description": "Converts numbers into verbal form",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
